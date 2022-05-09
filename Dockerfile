@@ -1,4 +1,4 @@
-FROM node:12.10.0-alpine
+FROM node:12-alpine
 
 LABEL maintainer="Liyas Thomas (liyascthomas@gmail.com)"
 
